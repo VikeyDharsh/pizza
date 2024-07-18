@@ -1,0 +1,4 @@
+while :
+do
+  curl htttps://www.google.com
+done

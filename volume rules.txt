@@ -1,0 +1,5 @@
+Failed to start the instance i-045a2e1d96ae183e2
+Invalid value 'i-045a2e1d96ae183e2' for instanceId. Instance does not have a volume attached at root (/dev/sda1)
+
+
+/dev/sda1

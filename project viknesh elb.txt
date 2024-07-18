@@ -1,0 +1,27 @@
+"this is viknesh"
+
+
+<!DOCTYPE html>
+<html>
+ 
+<head>
+    <style>
+        h1 {
+            color: green;
+           }
+        div {
+            width: 400px;
+            border: 2px solid red;
+        }
+    </style>
+</head>
+ 
+<body>
+    <div contenteditable="true">
+        <h1>this is Auto Scaling groups.</h1>
+        <p>Welcome to viknesh.com</p>
+ 
+    </div>
+</body>
+ 
+</html>

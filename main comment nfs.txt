@@ -1,0 +1,3 @@
+sudo apt install nfs-common
+
+sudo apt install nfs-common
